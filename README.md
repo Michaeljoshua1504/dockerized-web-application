@@ -40,3 +40,9 @@ http://localhost:8080
 - Static Website Deployment
 - Nginx Web Server Configuration
 - Docker Best Practices
+
+## Run with Docker Compose
+docker compose up --build -d
+
+## Stop the Application
+docker compose down
