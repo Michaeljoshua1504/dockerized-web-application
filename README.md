@@ -21,6 +21,7 @@ https://michaeljoshua1504.github.io/dockerized-web-application/
 
 ## Project Structure
 
+```text
 dockerized-web-application/
 ├── index.html
 ├── styles.css
@@ -32,6 +33,7 @@ dockerized-web-application/
     └── workflows/
         ├── main.yml
         └── deploy.yml
+```
 
 ## Build Docker Image
 
